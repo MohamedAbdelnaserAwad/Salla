@@ -1,0 +1,9 @@
+const String HOME_ROUTE = 'home';
+const String SPLASH_ROUTE = 'splash';
+const String ONBORDING_ROUTE = 'onbording';
+const String LOGIN_ROUTE = 'login';
+const String REGISTER_ROUTE = 'register';
+const String CATEGORIES_ROUTE = 'categories';
+const String MAIN_LAYOUT_ROUTE = 'main_layout';
+const String SETTINGS_ROUTE = 'settings';
+const String SEARCH_ROUTE = 'search';

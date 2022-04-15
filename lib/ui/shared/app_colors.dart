@@ -1,0 +1,36 @@
+import 'package:flutter/material.dart';
+
+const Color black = Color(0xff000000);
+const Color white = Color(0xffffffff);
+const Color backgroundColor = Color(0xff4ba4a3);
+const Color activeBottomNavigationColor = Color(0xff0d9b99);
+const Color inactiveBottomNavigationColor = Color(0xff8f9090);
+const Color darkGray = Color(0xff979797);
+const Color greyText = Color(0xff737373);
+const Color greyBorder = Color(0xffe6e6e6);
+const Color lightBlueBackground = Color(0xffeeffff);
+const Color darkGreen = Color(0xff068483);
+const Color lightGreenText = Color(0xff519735);
+const Color lightGreenBackground = Color(0xffe6f4e1);
+const Color greenText = Color(0xff006665);
+const Color lightGreyText = Color(0xffa4a5a5);
+const Color searchTextColor = Color(0xffbabbbb);
+const Color radioButtonTextColor = Color(0xff6d6d6d);
+const Color greenButton = Color(0xff007a79);
+const Color dividerColor = Color(0xffededed);
+const Color greenNode = Color(0xff389492);
+const Color greyNode = Color(0xffdfdfdf);
+const Color greySlider = Color(0xffe2e2e2);
+const Color greenTab = Color(0xff027877);
+const Color blueColor = Color(0xff245380);
+const Color blueColor2 = Color(0xff0671A3);
+const Color blueColor3 = Color(0xff00A0E3);
+
+Paint rentaltBG = Paint()..color = const Color(0xffe6f4e1);
+Paint investmentBG = Paint()..color = const Color(0xffeeffff);
+Color rentalTextColor = const Color(0xff519735);
+Color investmentTextColor = const Color(0xff068483);
+const Color errorColor = Color.fromARGB(255, 204, 51, 51);
+const Color lightGreen = Color(0xff6cc04b);
+const Color hintColor = Color(0xffd1d1d1);
+const defaultColor = Colors.blue;
