@@ -1,6 +1,6 @@
 # salla
 
-A new Flutter project.
+Shop application
 
 ## Getting Started
 
